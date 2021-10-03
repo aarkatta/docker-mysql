@@ -1,6 +1,6 @@
 Create Docker container:
 
-docker compose up
+docker-compose up
 
 To see list of containers
 docker ps
@@ -20,4 +20,6 @@ USE Product_db;
 
 SHOW tables;
 
-select * from [rpduct;
+select * from product;
+
+https://github.com/lifeparticle/MySQL-Snippets
